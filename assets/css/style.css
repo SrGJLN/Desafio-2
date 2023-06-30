@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+    
+.header {
+    padding: 6em;
+    background-image: url(../imgs/logo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header h1{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.products{
+    width: 90%;
+    margin: auto;
+}
+
+.products td {
+    width: 50%;
+    padding: 1em;
+}
+        
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: gold;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
